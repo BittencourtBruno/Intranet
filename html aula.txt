@@ -1,0 +1,5 @@
+HTML
+
+- TAG: <NomeTag> texto </NomeTag>
+- TAG: <NomeTag  />
+- TAG - Atributos: <NomeTag atributo="valor"> </NomeTag> 
